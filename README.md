@@ -1,2 +1,2 @@
 # matryoshka
-Code examples fo Matryoshka electronics kit
+Code examples for Matryoshka electronics kit
