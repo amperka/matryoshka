@@ -1,10 +1,9 @@
 # Code examples for Matryoshka electronics kit
-[English](https://github.com/amperka/matryoshka#how-to-download-and-install-code-examples)  
 [Deutsch](https://github.com/amperka/matryoshka#how-to-download-and-install-code-examples)  
 [Русский](https://github.com/amperka/matryoshka#%D0%BA%D0%B0%D0%BA-%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B8-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%BA%D0%BE%D0%B4%D0%B0)  
 
 ## How to download and install code examples?
-Файлы спримерами кода лежат в папках. Можно открыть их прямо здесь на GitHub и копировать в Arduino IDE. А можно скачать и внедрить их в Arduino IDE. Тогда примеры можно будет найти в меню с примерами. Чтобы скачать примеры нужно найти сверху зелёную кнопку «Code», нажать и выбрать «Download ZIP».
+Файлы с примерами кода лежат в папках по названиям экспериментов. Можно открыть их прямо здесь на GitHub и копировать в Arduino IDE. А можно скачать и внедрить их в Arduino IDE. Тогда примеры можно будет найти в меню с примерами. Чтобы скачать примеры нужно найти сверху зелёную кнопку «Code», нажать и выбрать «Download ZIP».
 
 ![изображение](https://user-images.githubusercontent.com/49651505/118540297-22dfd980-b759-11eb-8f73-641a151737d7.png)
 
@@ -32,9 +31,10 @@
 
 Чтобы открыть интересующий пример, используйте меню Arduino IDE:
 
+Файл → Образцы → Matryoshka → [эксперимент]
 
 ## Как скачать и установить примеры кода?
-Файлы спримерами кода лежат в папках. Можно открыть их прямо здесь на GitHub и копировать в Arduino IDE. А можно скачать и внедрить их в Arduino IDE. Тогда примеры можно будет найти в меню с примерами. Чтобы скачать примеры нужно найти сверху зелёную кнопку «Code», нажать и выбрать «Download ZIP».
+Файлы с примерами кода лежат в папках по названиям экспериментов. Можно открыть их прямо здесь на GitHub и копировать в Arduino IDE. А можно скачать и внедрить их в Arduino IDE. Тогда примеры можно будет найти в меню IDE с остальными примерами. Чтобы скачать примеры нужно найти сверху зелёную кнопку «Code», нажать и выбрать «Download ZIP».
 
 ![изображение](https://user-images.githubusercontent.com/49651505/118540297-22dfd980-b759-11eb-8f73-641a151737d7.png)
 
